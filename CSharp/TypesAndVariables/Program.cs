@@ -26,7 +26,7 @@ namespace TypesAndVariables
 
             number7 = 'A';
 
-            Console.WriteLine("number1 is {0}",number1);
+            Console.WriteLine("number1 is {0}", number1);
             Console.WriteLine("character is {0}", (int)character);
             Console.WriteLine((int)Days.Saturday);
             Console.WriteLine("number7 is {0}", number7);
@@ -37,6 +37,6 @@ namespace TypesAndVariables
 
     enum Days
     {
-        Monday=15,Tuesday=20,Wednesday,Thursday,Friday,Saturday,Sunday
+        Monday = 15, Tuesday = 20, Wednesday, Thursday, Friday, Saturday, Sunday
     }
 }
