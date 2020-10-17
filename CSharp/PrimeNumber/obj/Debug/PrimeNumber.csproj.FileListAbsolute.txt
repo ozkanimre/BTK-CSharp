@@ -1,0 +1,7 @@
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\PrimeNumber\obj\Debug\PrimeNumber.csprojAssemblyReference.cache
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\PrimeNumber\obj\Debug\PrimeNumber.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\PrimeNumber\bin\Debug\PrimeNumber.exe.config
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\PrimeNumber\bin\Debug\PrimeNumber.exe
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\PrimeNumber\bin\Debug\PrimeNumber.pdb
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\PrimeNumber\obj\Debug\PrimeNumber.exe
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\PrimeNumber\obj\Debug\PrimeNumber.pdb
