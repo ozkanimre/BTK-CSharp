@@ -27,7 +27,7 @@ namespace Methods
             int n3 ;
             int n4 = 20;
             Console.WriteLine(Add4(out n3, n4));
-            Console.WriteLine(n1);
+            Console.WriteLine(n3);
 
 
 
