@@ -1,0 +1,7 @@
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Methods\bin\Debug\Methods.exe.config
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Methods\bin\Debug\Methods.exe
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Methods\bin\Debug\Methods.pdb
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Methods\obj\Debug\Methods.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Methods\obj\Debug\Methods.exe
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Methods\obj\Debug\Methods.pdb
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Methods\obj\Debug\Methods.csprojAssemblyReference.cache
