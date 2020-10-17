@@ -23,7 +23,7 @@ namespace Methods
             Console.WriteLine(Add3(ref n1, n2));
             Console.WriteLine(n1);
 
-            //out keyword ile metoddan gelen değeri n3 atamasını gerçekleştiriyoruz n3 boş olabilir
+            //out keyword ile metoddan gelen değeri n3 atamasını gerçekleştiriyoruz n3 başlangıçta boş olabilir
             int n3 ;
             int n4 = 20;
             Console.WriteLine(Add4(out n3, n4));
