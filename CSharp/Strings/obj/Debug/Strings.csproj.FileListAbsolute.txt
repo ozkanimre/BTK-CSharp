@@ -1,0 +1,7 @@
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Strings\bin\Debug\Strings.exe.config
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Strings\bin\Debug\Strings.exe
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Strings\bin\Debug\Strings.pdb
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Strings\obj\Debug\Strings.exe
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\Strings\obj\Debug\Strings.pdb
