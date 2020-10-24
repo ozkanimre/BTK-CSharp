@@ -1,0 +1,10 @@
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\RecapDemo1\bin\Debug\RecapDemo1.exe.config
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\RecapDemo1\bin\Debug\RecapDemo1.exe
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\RecapDemo1\bin\Debug\RecapDemo1.pdb
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\RecapDemo1\obj\Debug\RecapDemo1.csprojAssemblyReference.cache
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\RecapDemo1\obj\Debug\RecapDemo1.Form1.resources
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\RecapDemo1\obj\Debug\RecapDemo1.Properties.Resources.resources
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\RecapDemo1\obj\Debug\RecapDemo1.csproj.GenerateResource.cache
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\RecapDemo1\obj\Debug\RecapDemo1.csproj.CoreCompileInputs.cache
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\RecapDemo1\obj\Debug\RecapDemo1.exe
+C:\Users\ozkan\OneDrive\Documents\GitHub\BTK-CSharp\CSharp\RecapDemo1\obj\Debug\RecapDemo1.pdb
